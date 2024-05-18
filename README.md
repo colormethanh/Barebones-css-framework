@@ -1,4 +1,4 @@
-# A Barebones css framwork
+# A Barebones css framework
 
 This is a barebones framework with...
 
